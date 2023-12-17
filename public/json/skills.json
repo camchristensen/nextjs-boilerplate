@@ -1,0 +1,113 @@
+{
+ "name": "Skills",
+ "children": [
+  {
+   "name": "Code",
+   "children": [
+    {
+     "name": "Javascript",
+     "children": [
+      {"name": "Vanilla", "value": 12},
+      {"name": "jQuery", "value": 9},
+      {"name": "React", "value": 5},
+      {"name": "NextJS", "value": 3},
+      {"name": "Typescript", "value": 3},
+      {"name": "API", "value": 3}
+     ]
+    },
+    {
+      "name": "Build Tools", 
+      "children": [
+        {"name": "Node.js", "value": 3},
+        {"name": "Grunt", "value": 2},
+        {"name": "Gulp", "value": 2},
+        {"name": "Webpack", "value": 5}
+       ]
+    },
+    {
+     "name": "Wordpress",
+     "children": [
+      {"name": "Wordpress Custom Themes", "value": 10},
+      {"name": "Wordpress Custom Plugins", "value": 9},
+      {"name": "Woocommerce", "value": 5},
+      {"name": "Yoast SEO", "value": 4}
+     ]
+    },
+    {
+     "name": "CSS",
+     "children": [
+      {"name": "Tailwind", "value": 10},
+      {"name": "SASS", "value": 7},
+      {"name": "Build Tools", "value": 7},
+      {"name": "Bootstrap", "value": 5},
+      {"name": "Centering a div", "value": 10}
+     ]
+    },
+    {
+    "name": "CMS",
+    "children": [
+        {"name": "Wordpress", "value": 10},
+        {"name": "Sanity.io", "value": 2},
+        {"name": "Squarespace", "value": 2},
+        {"name": "Hubspot", "value": 2}
+    ]
+    },
+    {
+    "name": "Sysadmin",
+    "children": [
+        {"name": "AWS", "value": 8},
+        {"name": "Cloudflare", "value": 7},
+        {"name": "Server Management", "value": 5},
+        {"name": "Nginx", "value": 5},
+        {"name": "Apache", "value": 4},
+        {"name": "Netlify", "value": 7},
+        {"name": "Vercel", "value": 1}
+    ]
+    },
+    {"name": "PHP", "value": 12},
+    {"name": "SEO", "value": 10},
+    {"name": "Pagespeed", "value": 8}
+   ]
+  },
+  {
+    "name": "Design",
+    "children": [
+      {"name": "Photoshop", "value": 10},
+      {"name": "Illustrator", "value": 9},
+      {"name": "Figma", "value": 4},
+      {"name": "Drawing", "value": 5},
+      {"name": "Logo Design", "value": 5}
+     ]
+  },
+  {
+    "name": "Audio/Music",
+    "children": [
+      {"name": "Logic Pro X", "value": 12},
+      {"name": "Recording", "value": 5},
+      {"name": "Writing", "value": 4},
+      {"name": "Producing", "value": 10},
+      {"name": "Ableton", "value": 2},
+      {"name": "Live Sound", "value": 3},
+      {"name": "MIDI & Routing", "value": 5}
+     ]
+  },
+  {
+    "name": "Video",
+    "children": [
+        {"name": "Premiere Pro", "value": 9},
+        {"name": "Final Cut", "value": 1},
+        {"name": "After Effects", "value": 4},
+        {"name": "Web Video", "value": 8}
+    ]
+  },
+  {
+    "name": "Hobbies",
+    "children": [
+        {"name": "3D Printing", "value": 10},
+        {"name": "Ping Pong", "value": 6},
+        {"name": "Summer Grilling", "value": 4},
+        {"name": "Crock Pot Cookin'", "value": 4}
+    ]
+  }
+ ]
+}
